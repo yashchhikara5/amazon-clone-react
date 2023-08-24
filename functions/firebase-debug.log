@@ -959,3 +959,4 @@ Issues? Report them at https://github.com/firebase/firebase-tools/issues and att
 [debug] [2022-12-09T22:57:04.662Z] [worker-us-central1-api-088972b8-229b-48a7-a1a0-4319ddf207b2]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-api-088972b8-229b-48a7-a1a0-4319ddf207b2]: IDLE"}}
 [debug] [2022-12-09T22:57:04.662Z] [work-queue] {"queueLength":0,"workRunningCount":0}
 [info] i  functions: Finished "api" in 1006.1159ms {"metadata":{"emulator":{"name":"functions"},"function":{"name":"us-central1-api"},"extension":{},"message":"Finished \"api\" in 1006.1159ms"}}
+[debug] [2022-12-10T04:19:21.804Z] [worker-us-central1-api-088972b8-229b-48a7-a1a0-4319ddf207b2]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-us-central1-api-088972b8-229b-48a7-a1a0-4319ddf207b2]: exited"}}
